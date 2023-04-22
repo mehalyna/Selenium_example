@@ -33,5 +33,5 @@ def test_google_search():
 
 # Press the green button in the gutter to run the script.
 if __name__ == "__main__":
-    pytest.test_google_search()
 
+    home_page = Home()
